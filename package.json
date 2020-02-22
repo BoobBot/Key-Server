@@ -1,0 +1,24 @@
+{
+  "name": "key-server",
+  "version": "1.0.0",
+  "description": "A lightweight HTTP server that can generate keys for distribution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoobBot/Key-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoobBot/Key-Server/issues"
+  },
+  "homepage": "https://github.com/BoobBot/Key-Server#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "mongodb": "^3.5.3"
+  }
+}
